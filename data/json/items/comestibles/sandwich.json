@@ -268,7 +268,7 @@
     "material": [ "wheat", "nut" ],
     "volume": "500 ml",
     "fun": 3,
-    "vitamins": [ [ "calcium", 10 ], [ "iron", 28 ], [ "wheat_allergen", 1 ] ],
+    "vitamins": [ [ "calcium", 10 ], [ "iron", 28 ], [ "wheat_allergen", 1 ], [ "nut_allergen", 1 ] ],
     "charges": 4
   },
   {
@@ -279,7 +279,7 @@
     "description": "A delicious peanut butter and jelly sandwich.  It reminds you of the times your mother would make you lunch.",
     "material": [ "fruit", "wheat", "nut" ],
     "fun": 6,
-    "vitamins": [ [ "vitC", 3 ], [ "calcium", 7 ], [ "iron", 14 ], [ "wheat_allergen", 1 ], [ "fruit_allergen", 1 ] ]
+    "vitamins": [ [ "vitC", 3 ], [ "calcium", 7 ], [ "iron", 14 ], [ "wheat_allergen", 1 ], [ "fruit_allergen", 1 ], [ "nut_allergen", 1 ] ]
   },
   {
     "type": "COMESTIBLE",
