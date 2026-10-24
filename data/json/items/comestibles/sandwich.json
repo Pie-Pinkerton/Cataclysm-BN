@@ -290,7 +290,7 @@
     "description": "Some damned fool put honey on this peanut butter sandwich, who in their right mind- oh wait this is pretty good.",
     "material": [ "wheat", "honey", "nut" ],
     "fun": 6,
-    "vitamins": [ [ "calcium", 8 ], [ "iron", 16 ], [ "wheat_allergen", 1 ] ]
+    "vitamins": [ [ "calcium", 8 ], [ "iron", 16 ], [ "wheat_allergen", 1 ], [ "nut_allergen", 1 ] ]
   },
   {
     "type": "COMESTIBLE",
@@ -301,7 +301,7 @@
     "description": "Who knew you could mix maple syrup and peanut butter to create yet another different sandwich?",
     "material": [ "wheat", "nut" ],
     "fun": 6,
-    "vitamins": [ [ "calcium", 12 ], [ "iron", 28 ], [ "wheat_allergen", 1 ] ]
+    "vitamins": [ [ "calcium", 12 ], [ "iron", 28 ], [ "wheat_allergen", 1 ], [ "nut_allergen", 1 ] ]
   },
   {
     "type": "COMESTIBLE",
