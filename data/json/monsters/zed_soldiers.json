@@ -236,7 +236,7 @@
     "id": "mon_zombie_kevlar_0",
     "type": "MONSTER",
     "name": { "str": "Kevlar zombie" },
-    "description": "This zombie is wearing some kind of uniform with heavy, bulletproof materials sewn in.  However, the monster's skin has begun to grown over the fabric, splitting and tearing it to shreds, seemingly integrating the mess of Kevlar and ceramic into part of its hide.",
+    "description": "This zombie is wearing some kind of uniform with heavy, bulletproof materials sewn in.  However, the monster's skin has begun to grow over the fabric, splitting and tearing it to shreds, seemingly integrating the mess of Kevlar and ceramic into part of its hide.",
     "looks_like": "mon_zombie_brute",
     "default_faction": "zombie",
     "bodytype": "human",
